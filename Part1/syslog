@@ -1,0 +1,240 @@
+
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795164] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795167] User 1000 is closing file descriptor: 4
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795216] User 1000 is closing file descriptor: 4
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795223] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795445] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795451] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795466] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795492] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795781] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795817] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795851] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795898] User 1000 is closing file descriptor: 3
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795908] User 1000 is closing file descriptor: 1
+Sep 18 03:32:07 ubuntu kernel: [ 1071.795914] User 1000 is closing file descriptor: 2
+Sep 18 03:32:09 ubuntu kernel: [ 1073.656975] User 1000 is closing file descriptor: 13
+Sep 18 03:32:09 ubuntu kernel: [ 1073.664561] User 1000 is opening file: /usr/share/icons/Humanity/status/16/gtk-dialog-warning.svg
+Sep 18 03:32:09 ubuntu kernel: [ 1073.665162] User 1000 is closing file descriptor: 18
+Sep 18 03:32:09 ubuntu kernel: [ 1073.680559] User 1000 is closing file descriptor: 13
+Sep 18 03:32:09 ubuntu kernel: [ 1073.682444] User 1000 is closing file descriptor: 32
+Sep 18 03:32:09 ubuntu kernel: [ 1073.683804] User 1000 is closing file descriptor: 13
+Sep 18 03:32:09 ubuntu kernel: [ 1073.684220] User 1000 is closing file descriptor: 18
+Sep 18 03:32:09 ubuntu kernel: [ 1073.687680] User 1000 is closing file descriptor: 32
+Sep 18 03:32:10 ubuntu kernel: [ 1075.227315] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/button-hover.png
+Sep 18 03:32:10 ubuntu kernel: [ 1075.227436] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.665595] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/button-default-focused-hover.png
+Sep 18 03:32:11 ubuntu kernel: [ 1075.665750] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.763726] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:11 ubuntu kernel: [ 1075.763756] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.763773] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:11 ubuntu kernel: [ 1075.763798] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.771231] User 1000 is opening file: /usr/share/icons/Humanity/actions/16/document-open.svg
+Sep 18 03:32:11 ubuntu kernel: [ 1075.772428] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.774218] User 1000 is closing file descriptor: 32
+Sep 18 03:32:11 ubuntu kernel: [ 1075.774886] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.786551] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.786558] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.786572] User 1000 is closing file descriptor: 19
+Sep 18 03:32:11 ubuntu kernel: [ 1075.789888] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:11 ubuntu kernel: [ 1075.789915] User 1000 is closing file descriptor: 19
+Sep 18 03:32:11 ubuntu kernel: [ 1075.789931] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:11 ubuntu kernel: [ 1075.789959] User 1000 is closing file descriptor: 19
+Sep 18 03:32:11 ubuntu kernel: [ 1075.811013] User 1000 is opening file: /usr/share/icons/Humanity/actions/22/document-revert.svg
+Sep 18 03:32:11 ubuntu kernel: [ 1075.812201] User 1000 is closing file descriptor: 19
+Sep 18 03:32:11 ubuntu kernel: [ 1075.918520] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.928878] User 1000 is closing file descriptor: 13
+Sep 18 03:32:11 ubuntu kernel: [ 1075.931337] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.931345] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.931365] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.933902] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.933908] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:11 ubuntu kernel: [ 1075.933918] User 1000 is closing file descriptor: 18
+Sep 18 03:32:11 ubuntu kernel: [ 1075.940503] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/postlist.tmp
+Sep 18 03:32:11 ubuntu kernel: [ 1075.941592] User 1000 is closing file descriptor: 16
+Sep 18 03:32:11 ubuntu kernel: [ 1075.943866] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/position.tmp
+Sep 18 03:32:11 ubuntu kernel: [ 1075.945234] User 1000 is closing file descriptor: 16
+Sep 18 03:32:11 ubuntu kernel: [ 1075.945673] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/termlist.tmp
+Sep 18 03:32:11 ubuntu kernel: [ 1075.946490] User 1000 is closing file descriptor: 16
+Sep 18 03:32:11 ubuntu kernel: [ 1075.946771] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/record.tmp
+Sep 18 03:32:11 ubuntu kernel: [ 1075.947735] User 1000 is closing file descriptor: 16
+Sep 18 03:32:12 ubuntu kernel: [ 1077.208046] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/progressbar-horizontal-trough.png
+Sep 18 03:32:12 ubuntu kernel: [ 1077.208156] User 1000 is closing file descriptor: 18
+Sep 18 03:32:12 ubuntu kernel: [ 1077.208329] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/progressbar-horizontal-fill.png
+Sep 18 03:32:12 ubuntu kernel: [ 1077.208418] User 1000 is closing file descriptor: 18
+Sep 18 03:32:12 ubuntu kernel: [ 1077.216516] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel.YAIY4X
+Sep 18 03:32:12 ubuntu kernel: [ 1077.218684] User 1000 is closing file descriptor: 18
+Sep 18 03:32:14 ubuntu kernel: [ 1078.491975] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:14 ubuntu kernel: [ 1078.492012] User 1000 is closing file descriptor: 11
+Sep 18 03:32:14 ubuntu kernel: [ 1078.492529] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:14 ubuntu kernel: [ 1078.492551] User 1000 is closing file descriptor: 22
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493061] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493072] User 1000 is closing file descriptor: 7
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493554] User 1000 is closing file descriptor: 7
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493562] User 1000 is opening file: /dev/vsock
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493566] User 1000 is opening file: /vmfs/devices/char/vsock/vsock
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493570] User 1000 is closing file descriptor: 7
+Sep 18 03:32:14 ubuntu kernel: [ 1078.493573] User 1000 is closing file descriptor: 7
+Sep 18 03:32:14 ubuntu kernel: [ 1078.495021] User 1000 is closing file descriptor: 7
+Sep 18 03:32:14 ubuntu kernel: [ 1078.496263] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:14 ubuntu kernel: [ 1078.496323] User 1000 is closing file descriptor: 18
+Sep 18 03:32:17 ubuntu kernel: [ 1081.521938] User 1000 is opening file: /var/log/.hidden
+Sep 18 03:32:17 ubuntu kernel: [ 1081.521974] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:17 ubuntu kernel: [ 1081.521976] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:17 ubuntu kernel: [ 1081.521989] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522089] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522113] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522129] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522152] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522358] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522372] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522384] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522401] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522537] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522595] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522724] User 1000 is opening file: /var/log/kern.log
+Sep 18 03:32:17 ubuntu kernel: [ 1081.522783] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.623823] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.623866] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625480] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625509] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625579] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625601] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625656] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625676] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625736] User 1000 is opening file: /usr/share/applications/libreoffice-writer.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.625871] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1081.629200] User 1000 is opening file: /usr/share/applications/thunderbird.desktop
+Sep 18 03:32:17 ubuntu kernel: [ 1081.629306] User 1000 is closing file descriptor: 22
+Sep 18 03:32:17 ubuntu kernel: [ 1082.097149] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/button-default.png
+Sep 18 03:32:17 ubuntu kernel: [ 1082.097418] User 1000 is closing file descriptor: 18
+Sep 18 03:32:17 ubuntu kernel: [ 1082.098437] User 1000 is opening file: /usr/share/icons/gnome/scalable/status/dialog-warning-symbolic.svg
+Sep 18 03:32:17 ubuntu kernel: [ 1082.098450] User 1000 is closing file descriptor: 18
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108929] User 1000 is opening file: /proc/3401/status
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108958] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108965] User 1000 is opening file: /proc/3401/stat
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108975] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108978] User 1000 is opening file: /proc/1971/status
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108989] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108991] User 1000 is opening file: /proc/1971/stat
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108996] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.108998] User 1000 is opening file: /proc/1511/status
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109009] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109011] User 1000 is opening file: /proc/1511/stat
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109016] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109017] User 1000 is opening file: /proc/1122/status
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109028] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109030] User 1000 is opening file: /proc/1122/stat
+Sep 18 03:32:17 ubuntu kernel: [ 1082.109035] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.111874] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.112962] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.114353] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.115295] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.117119] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.117651] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.133677] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.133957] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.134840] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.135232] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.135392] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.136113] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.136186] User 1000 is closing file descriptor: 13
+Sep 18 03:32:17 ubuntu kernel: [ 1082.136829] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.137342] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.138073] User 1000 is closing file descriptor: 10
+Sep 18 03:32:17 ubuntu kernel: [ 1082.139657] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.140042] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.140345] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.140679] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.140972] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.143784] User 1000 is opening file: /usr/share/themes/Ambiance/gtk-3.0/assets/button-default-focused.png
+Sep 18 03:32:17 ubuntu kernel: [ 1082.143915] User 1000 is closing file descriptor: 18
+Sep 18 03:32:17 ubuntu kernel: [ 1082.146571] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.147172] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.150165] User 1000 is closing file descriptor: 32
+Sep 18 03:32:17 ubuntu kernel: [ 1082.150522] User 1000 is closing file descriptor: 32
+Sep 18 03:32:19 ubuntu kernel: [ 1084.105349] User 1000 is opening file: /home/zding2/.config/dconf/user.B84O4X
+Sep 18 03:32:19 ubuntu kernel: [ 1084.107813] User 1000 is closing file descriptor: 7
+Sep 18 03:32:19 ubuntu kernel: [ 1084.107928] User 1000 is opening file: /run/user/1000/dconf/user
+Sep 18 03:32:19 ubuntu kernel: [ 1084.107952] User 1000 is closing file descriptor: 7
+Sep 18 03:32:19 ubuntu kernel: [ 1084.148310] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:19 ubuntu kernel: [ 1084.148342] User 1000 is closing file descriptor: 18
+Sep 18 03:32:19 ubuntu kernel: [ 1084.148359] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:19 ubuntu kernel: [ 1084.148383] User 1000 is closing file descriptor: 18
+Sep 18 03:32:19 ubuntu kernel: [ 1084.149448] User 1000 is closing file descriptor: 18
+Sep 18 03:32:19 ubuntu kernel: [ 1084.158816] User 1000 is opening file: /home/zding2/.config/gedit/accels
+Sep 18 03:32:19 ubuntu kernel: [ 1084.159368] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel.MSWZ4X
+Sep 18 03:32:19 ubuntu kernel: [ 1084.161420] User 1000 is closing file descriptor: 18
+Sep 18 03:32:19 ubuntu kernel: [ 1084.162830] User 1000 is closing file descriptor: 26
+Sep 18 03:32:19 ubuntu kernel: [ 1084.163885] User 1000 is closing file descriptor: 72
+Sep 18 03:32:19 ubuntu kernel: [ 1084.167065] User 1000 is closing file descriptor: 72
+Sep 18 03:32:19 ubuntu kernel: [ 1084.167519] User 1000 is closing file descriptor: 72
+Sep 18 03:32:19 ubuntu kernel: [ 1084.174367] User 1000 is closing file descriptor: 13
+Sep 18 03:32:19 ubuntu kernel: [ 1084.188512] User 1000 is closing file descriptor: 72
+Sep 18 03:32:19 ubuntu kernel: [ 1084.190205] User 1000 is closing file descriptor: 72
+Sep 18 03:32:19 ubuntu kernel: [ 1084.200265] User 1000 is closing file descriptor: 32
+Sep 18 03:32:19 ubuntu kernel: [ 1084.200645] User 1000 is closing file descriptor: 32
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542663] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542670] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542684] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542788] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542817] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542834] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:20 ubuntu kernel: [ 1084.542857] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543063] User 1000 is opening file: /sys/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1/uevent
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543077] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543088] User 1000 is opening file: /run/udev/data/b8:1
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543106] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543246] User 1000 is opening file: /var/log/syslog
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543308] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543625] User 1000 is opening file: /var/log/kern.log
+Sep 18 03:32:20 ubuntu kernel: [ 1084.543705] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.644101] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.644146] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645750] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645783] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645854] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645877] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645932] User 1000 is opening file: /usr/share/applications/gedit.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.645956] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.646014] User 1000 is opening file: /usr/share/applications/libreoffice-writer.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.646115] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650278] User 1000 is opening file: /usr/share/applications/thunderbird.desktop
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650452] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650808] User 1000 is opening file: /run/user/1000/dconf/user
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650826] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650829] User 1000 is opening file: /home/zding2/.config/dconf/user
+Sep 18 03:32:20 ubuntu kernel: [ 1084.650839] User 1000 is closing file descriptor: 22
+Sep 18 03:32:20 ubuntu kernel: [ 1084.985383] User 1000 is closing file descriptor: 32
+Sep 18 03:32:20 ubuntu kernel: [ 1084.989658] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/postlist.tmp
+Sep 18 03:32:20 ubuntu kernel: [ 1084.990963] User 1000 is closing file descriptor: 16
+Sep 18 03:32:20 ubuntu kernel: [ 1084.992018] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/position.tmp
+Sep 18 03:32:20 ubuntu kernel: [ 1084.992751] User 1000 is closing file descriptor: 16
+Sep 18 03:32:20 ubuntu kernel: [ 1084.993230] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/termlist.tmp
+Sep 18 03:32:20 ubuntu kernel: [ 1084.994201] User 1000 is closing file descriptor: 16
+Sep 18 03:32:20 ubuntu kernel: [ 1084.994491] User 1000 is opening file: /home/zding2/.local/share/zeitgeist/fts.index/record.tmp
+Sep 18 03:32:20 ubuntu kernel: [ 1084.995635] User 1000 is closing file descriptor: 16
+Sep 18 03:32:21 ubuntu kernel: [ 1085.388460] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:21 ubuntu kernel: [ 1085.388506] User 1000 is closing file descriptor: 22
+Sep 18 03:32:21 ubuntu kernel: [ 1085.433663] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:21 ubuntu kernel: [ 1085.433719] User 1000 is closing file descriptor: 11
+Sep 18 03:32:21 ubuntu kernel: [ 1085.434550] User 1000 is opening file: /home/zding2/.local/share/recently-used.xbel
+Sep 18 03:32:21 ubuntu kernel: [ 1085.434564] User 1000 is closing file descriptor: 7
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435046] User 1000 is closing file descriptor: 7
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435055] User 1000 is opening file: /dev/vsock
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435060] User 1000 is opening file: /vmfs/devices/char/vsock/vsock
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435065] User 1000 is closing file descriptor: 7
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435068] User 1000 is closing file descriptor: 7
+Sep 18 03:32:21 ubuntu kernel: [ 1085.435511] User 1000 is closing file descriptor: 7
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014289] User 1000 is closing file descriptor: 3
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014292] User 1000 is closing file descriptor: 4
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014326] User 1000 is closing file descriptor: 4
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014331] User 1000 is closing file descriptor: 3
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014506] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014512] User 1000 is closing file descriptor: 3
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014520] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014541] User 1000 is closing file descriptor: 3
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014656] "'Hello world?!' More like 'Goodbye, world!' EXTERMINATE!" -- Dalek
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014664] ‘Hello, world!’ -- syscall2
+Sep 18 03:32:23 ubuntu kernel: [ 1088.014676] ‘Hello, world!’ -- syscall3
+

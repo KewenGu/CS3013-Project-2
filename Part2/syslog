@@ -1,0 +1,506 @@
+Sep 18 03:38:01 ubuntu kernel: [ 1426.389971] User 1000 is opening file: /etc/localtime
+Sep 18 03:38:01 ubuntu kernel: [ 1426.389992] User 1000 is closing file descriptor: 10
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390038] User 1000 is opening file: /etc/localtime
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390044] User 1000 is closing file descriptor: 10
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390176] User 1000 is opening file: /run/user/1000/dconf/user
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390186] User 1000 is closing file descriptor: 18
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390212] User 1000 is opening file: /home/zding2/.config/dconf/user
+Sep 18 03:38:01 ubuntu kernel: [ 1426.390219] User 1000 is closing file descriptor: 18
+Sep 18 03:38:14 ubuntu kernel: [ 1439.597539] User 1000 is closing file descriptor: 32
+Sep 18 03:38:14 ubuntu kernel: [ 1439.609617] User 1000 is closing file descriptor: 32
+Sep 18 03:38:14 ubuntu kernel: [ 1439.609917] User 1000 is closing file descriptor: 32
+Sep 18 03:38:14 ubuntu kernel: [ 1439.614541] User 1000 is closing file descriptor: 13
+Sep 18 03:38:14 ubuntu kernel: [ 1439.626421] User 1000 is closing file descriptor: 32
+Sep 18 03:38:14 ubuntu kernel: [ 1439.627335] User 1000 is closing file descriptor: 32
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059428] User 1000 is opening file: /dev/ptmx
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059519] User 1000 is closing file descriptor: 42
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059539] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059621] User 1000 is opening file: /etc/group
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059646] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059652] User 1000 is opening file: /dev/pts/6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059656] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059663] User 1000 is closing file descriptor: 0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059664] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059665] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059667] User 1000 is opening file: /dev/null
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059670] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059803] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059807] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059813] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.059829] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060005] User 1000 is opening file: /proc/self/fd/9
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060020] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060350] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060363] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060394] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060463] User 1000 is closing file descriptor: 40
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060782] User 1000 is closing file descriptor: 9
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060785] User 1000 is closing file descriptor: 11
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060817] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060834] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060837] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060838] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060847] User 1000 is opening file: /dev/null
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060852] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060853] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060878] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060896] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060964] User 1000 is closing file descriptor: 43
+Sep 18 03:38:21 ubuntu kernel: [ 1446.060996] User 1000 is opening file: /var/run/utmp
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061021] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061128] User 1000 is opening file: /dev/ptmx
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061180] User 1000 is closing file descriptor: 42
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061199] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061278] User 1000 is opening file: /etc/group
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061299] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061305] User 1000 is opening file: /dev/pts/6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061309] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061316] User 1000 is closing file descriptor: 0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061317] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061317] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061319] User 1000 is opening file: /dev/null
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061321] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061456] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061461] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061474] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061498] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061725] User 1000 is opening file: /proc/self/fd/9
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061736] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061869] User 1000 is closing file descriptor: 41
+Sep 18 03:38:21 ubuntu kernel: [ 1446.061880] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.062964] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063337] User 1000 is closing file descriptor: 40
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063374] User 1000 is closing file descriptor: 9
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063379] User 1000 is closing file descriptor: 11
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063493] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063637] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063642] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063659] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063687] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063697] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063717] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063726] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063747] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063757] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063775] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.063991] User 1000 is opening file: /proc/filesystems
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064030] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064080] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064101] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064142] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064143] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064278] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064404] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064408] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064424] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064447] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064458] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064476] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064484] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064504] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064513] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064527] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064784] User 1000 is opening file: /proc/filesystems
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064817] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064851] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064865] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064902] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.064903] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.065002] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.065032] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.065039] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.065040] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066301] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066307] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066320] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066344] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066561] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066578] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066615] User 1000 is opening file: /dev/urandom
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066624] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.066634] User 1000 is opening file: /tmp/tmp.0Hm9izr5Y3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068222] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068257] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068270] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068279] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068337] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068339] User 1000 is closing file descriptor: 0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068340] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068341] User 1000 is opening file: /tmp/tmp.0Hm9izr5Y3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068352] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068353] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068432] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068561] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068565] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068579] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068602] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068818] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068835] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068881] User 1000 is closing file descriptor: 0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068896] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068897] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068937] User 1000 is closing file descriptor: 11
+Sep 18 03:38:21 ubuntu kernel: [ 1446.068997] User 1000 is closing file descriptor: 12
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069096] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069273] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069278] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069291] User 1000 is opening file: /lib/i386-linux-gnu/libpopt.so.0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069311] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069319] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069338] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069351] User 1000 is opening file: /lib/i386-linux-gnu/libacl.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069370] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069374] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069390] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069397] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069411] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069420] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069434] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069439] User 1000 is opening file: /lib/i386-linux-gnu/libattr.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069455] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069703] User 1000 is opening file: /proc/filesystems
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069737] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069774] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069787] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069817] User 1000 is opening file: /usr/etc/popt
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069823] User 1000 is opening file: /etc/popt
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069829] User 1000 is opening file: /home/zding2/.popt
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069853] User 1000 is opening file: /tmp/tmp.0Hm9izr5Y3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069882] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069889] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069894] User 1000 is opening file: /etc/nsswitch.conf
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069914] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069924] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069928] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069940] User 1000 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069959] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069964] User 1000 is opening file: /lib/i386-linux-gnu/libnsl.so.1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.069985] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070020] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070023] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070035] User 1000 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070053] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070060] User 1000 is opening file: /lib/i386-linux-gnu/libnss_files.so.2
+Sep 18 03:38:21 ubuntu anacron[997]: Job `cron.daily' terminated
+Sep 18 03:38:21 ubuntu anacron[997]: Normal exit (1 job run)
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070304] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070332] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070363] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070431] User 1000 is opening file: /usr/lib/i386-linux-gnu/gconv/gconv-modules.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070437] User 1000 is closing file descriptor: 5
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070481] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070511] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.070531] User 1000 is opening file: /home/zding2/.cache/logrotate/status
+Sep 18 03:38:21 ubuntu kernel: [ 1446.074494] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.075634] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.075695] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.077180] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.077730] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.078560] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082270] User 1000 is opening file: /etc/localtime
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082299] User 1000 is closing file descriptor: 4
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082461] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082495] User 1000 is opening file: /home/zding2/.cache/logrotate/status
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082517] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.082520] User 1000 is opening file: /home/zding2/.cache/logrotate/status.tmp
+Sep 18 03:38:21 ubuntu kernel: [ 1446.083857] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087237] User 1000 is closing file descriptor: 10
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087331] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087337] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087344] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087363] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087546] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087560] User 1000 is closing file descriptor: 3
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087615] User 1000 is closing file descriptor: 0
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087616] User 1000 is closing file descriptor: 1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087617] User 1000 is closing file descriptor: 2
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087720] User 1000 is closing file descriptor: 43
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087792] User 1000 is opening file: /var/run/utmp
+Sep 18 03:38:21 ubuntu kernel: [ 1446.087816] User 1000 is closing file descriptor: 30
+Sep 18 03:38:21 ubuntu kernel: [ 1446.088022] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.088079] User 1000 is closing file descriptor: -1
+Sep 18 03:38:21 ubuntu kernel: [ 1446.088184] User 1000 is closing file descriptor: -1
+Sep 18 03:38:31 ubuntu kernel: [ 1456.454736] User 1000 is opening file: /etc/fstab
+Sep 18 03:38:31 ubuntu kernel: [ 1456.455100] User 1000 is closing file descriptor: 18
+Sep 18 03:38:31 ubuntu kernel: [ 1456.455114] User 1000 is opening file: /proc/mounts
+Sep 18 03:38:31 ubuntu kernel: [ 1456.455198] User 1000 is closing file descriptor: 18
+Sep 18 03:38:31 ubuntu kernel: [ 1456.455216] User 1000 is opening file: /proc/mounts
+Sep 18 03:38:31 ubuntu kernel: [ 1456.455260] User 1000 is closing file descriptor: 18
+Sep 18 03:38:35 ubuntu kernel: [ 1460.008878] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.008881] User 1000 is closing file descriptor: 4
+Sep 18 03:38:35 ubuntu kernel: [ 1460.008929] User 1000 is closing file descriptor: 4
+Sep 18 03:38:35 ubuntu kernel: [ 1460.008934] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010338] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010345] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010355] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010384] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010463] User 1000 is opening file: /lib/i386-linux-gnu/libutil.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010508] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010530] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010557] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010562] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010600] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010616] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.010704] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011091] User 1000 is opening file: /proc/filesystems
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011123] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011446] User 1000 is opening file: /usr/lib/locale/locale-archive
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011473] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011490] User 1000 is opening file: /etc/localtime
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011506] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011545] User 1000 is opening file: /dev/tty
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011552] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011576] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011581] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011584] User 1000 is opening file: /etc/nsswitch.conf
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011599] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011608] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011613] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011619] User 1000 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011637] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011641] User 1000 is opening file: /lib/i386-linux-gnu/libnsl.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011659] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011688] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011691] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011697] User 1000 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011714] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011719] User 1000 is opening file: /lib/i386-linux-gnu/libnss_files.so.2
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011733] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011755] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011776] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011793] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011798] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011808] User 1000 is opening file: /proc/3816/stat
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011825] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.011918] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.012352] User 1000 is opening file: /usr/lib/sudo/sudoers.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013445] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013516] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013523] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013531] User 1000 is opening file: /lib/i386-linux-gnu/libpam.so.0
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013548] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013556] User 1000 is opening file: /lib/i386-linux-gnu/libaudit.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.013570] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016249] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016265] User 1000 is opening file: /etc/default/nss
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016299] User 1000 is closing file descriptor: 4
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016316] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016338] User 1000 is opening file: /usr/share/locale/locale.alias
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016362] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016373] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016381] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016386] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016390] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016429] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016449] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016473] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016478] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016481] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016498] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016503] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016508] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016511] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016518] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016521] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016528] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016530] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016537] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016540] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016548] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016550] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016560] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016562] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016573] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016582] User 1000 is opening file: /etc/nsswitch.conf
+Sep 18 03:38:35 ubuntu kernel: [ 1460.016595] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020193] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020209] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020268] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020294] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020302] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020308] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.020413] User 1000 is opening file: /etc/pam.d/sudo
+Sep 18 03:38:35 ubuntu kernel: [ 1460.021139] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_env.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.022003] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.022043] User 1000 is opening file: /etc/pam.d/common-auth
+Sep 18 03:38:35 ubuntu kernel: [ 1460.022470] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_unix.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023539] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023546] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023553] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023562] User 1000 is opening file: /lib/i386-linux-gnu/libcrypt.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023599] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.023680] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_deny.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024072] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024091] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_permit.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024481] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024501] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_cap.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024876] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024881] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024886] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.024893] User 1000 is opening file: /lib/i386-linux-gnu/libcap.so.2
+Sep 18 03:38:35 ubuntu kernel: [ 1460.025979] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.026070] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.026082] User 1000 is opening file: /etc/pam.d/common-account
+Sep 18 03:38:35 ubuntu kernel: [ 1460.026514] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.026525] User 1000 is opening file: /etc/pam.d/common-session-noninteractive
+Sep 18 03:38:35 ubuntu kernel: [ 1460.026884] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_umask.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027307] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027336] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027343] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027347] User 1000 is opening file: /etc/pam.d/other
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027657] User 1000 is opening file: /etc/pam.d/common-auth
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027676] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027684] User 1000 is opening file: /etc/pam.d/common-account
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027695] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.027701] User 1000 is opening file: /etc/pam.d/common-password
+Sep 18 03:38:35 ubuntu kernel: [ 1460.028040] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.028988] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.029041] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.029052] User 1000 is opening file: /etc/pam.d/common-session
+Sep 18 03:38:35 ubuntu kernel: [ 1460.029636] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_systemd.so
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030641] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030650] User 1000 is opening file: /etc/ld.so.cache
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030658] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030667] User 1000 is opening file: /lib/i386-linux-gnu/libcgmanager.so.0
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030689] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030698] User 1000 is opening file: /lib/i386-linux-gnu/libnih.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030715] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030720] User 1000 is opening file: /lib/i386-linux-gnu/libnih-dbus.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030735] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030741] User 1000 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030758] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.030765] User 1000 is opening file: /lib/i386-linux-gnu/libpam_misc.so.0
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031364] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031374] User 1000 is opening file: /lib/i386-linux-gnu/librt.so.1
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031396] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031408] User 1000 is opening file: /lib/i386-linux-gnu/libpthread.so.0
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031427] User 1000 is closing file descriptor: 10
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031795] User 1000 is closing file descriptor: 9
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031802] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.031834] User 1000 is opening file: /var/lib/sudo/zding2/12
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032150] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032155] User 1000 is opening file: /proc/stat
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032237] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032255] User 1000 is opening file: /var/lib/sudo/zding2/12
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032269] User 1000 is closing file descriptor: 8
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032442] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032461] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032467] User 1000 is closing file descriptor: 4
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032476] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032481] User 1000 is opening file: /etc/group
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032488] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032498] User 1000 is closing file descriptor: 5
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032502] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032503] User 1000 is closing file descriptor: 4
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032514] User 1000 is opening file: /etc/passwd
+Sep 18 03:38:35 ubuntu kernel: [ 1460.032520] User 1000 is closing file descriptor: 3
+Sep 18 03:38:35 ubuntu kernel: [ 1460.053391] User 1000 is closing file descriptor: -1
+Sep 18 03:38:36 ubuntu kernel: [ 1461.546976] User 1000 is closing file descriptor: 10
+Sep 18 03:38:36 ubuntu kernel: [ 1461.547032] User 1000 is closing file descriptor: 10
+Sep 18 03:38:36 ubuntu kernel: [ 1461.547609] User 1000 is closing file descriptor: 11
+Sep 18 03:38:36 ubuntu kernel: [ 1461.547634] User 1000 is closing file descriptor: 10
+Sep 18 03:38:36 ubuntu kernel: [ 1461.547647] User 1000 is closing file descriptor: 9
+Sep 18 03:38:36 ubuntu kernel: [ 1461.547651] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.988821] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.988824] User 1000 is closing file descriptor: 4
+Sep 18 03:38:40 ubuntu kernel: [ 1464.988874] User 1000 is closing file descriptor: 4
+Sep 18 03:38:40 ubuntu kernel: [ 1464.988881] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989129] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989176] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989198] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989230] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989255] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989281] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989557] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989616] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989661] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989705] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989734] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989741] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989765] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989779] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989811] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989836] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989874] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989906] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989930] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.989977] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990007] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990041] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990141] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990196] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990205] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990233] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990261] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990384] User 1000 is closing file descriptor: 4
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990458] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990539] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990559] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990563] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990584] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990596] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990606] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990616] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990626] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990637] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990650] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990664] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990688] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990937] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990972] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.990984] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991097] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991158] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991166] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991198] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991276] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991303] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991333] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991339] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991463] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991521] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991597] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991639] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991670] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991685] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991713] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991730] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991767] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991803] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991855] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991875] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991929] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991960] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.991983] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992008] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992040] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992135] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992176] User 1000 is closing file descriptor: 10
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992859] User 1000 is closing file descriptor: 9
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992866] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992897] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992937] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.992953] User 1000 is closing file descriptor: 8
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993046] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993062] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993065] User 1000 is closing file descriptor: 4
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993093] User 1000 is closing file descriptor: 5
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993097] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993099] User 1000 is closing file descriptor: 4
+Sep 18 03:38:40 ubuntu kernel: [ 1464.993115] User 1000 is closing file descriptor: 3
+Sep 18 03:38:40 ubuntu kernel: [ 1460.041598] Unloaded interceptor!
+Sep 18 03:39:36 ubuntu kernel: [ 1464.994283] Unloaded interceptor!Unloaded interceptor!
+Sep 18 03:39:46 ubuntu kernel: [ 1521.103652] Interceptor: Found syscall table at address: 0xC1669140<3>[ 1530.918599] end_request: I/O error, dev fd0, sector 0
+Sep 18 03:39:46 ubuntu kernel: [ 1530.938569] end_request: I/O error, dev fd0, sector 0
+Sep 18 03:43:02 ubuntu dhclient: DHCPREQUEST of 192.168.14.136 on eth0 to 192.168.14.254 port 67 (xid=0x40f92eab)
+Sep 18 03:43:02 ubuntu dhclient: DHCPACK of 192.168.14.136 from 192.168.14.254
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info> (eth0): DHCPv4 state changed renew -> renew
+Sep 18 03:43:02 ubuntu dhclient: bound to 192.168.14.136 -- renewal in 753 seconds.
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   address 192.168.14.136
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   prefix 24 (255.255.255.0)
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   gateway 192.168.14.2
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   nameserver '192.168.14.2'
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   domain name 'localdomain'
+Sep 18 03:43:02 ubuntu NetworkManager[729]: <info>   wins '192.168.14.2'
+Sep 18 03:43:02 ubuntu dbus[452]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Sep 18 03:43:02 ubuntu dbus[452]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
