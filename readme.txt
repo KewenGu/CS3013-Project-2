@@ -9,4 +9,4 @@ Part 1:
 
 -------------------------------------------
 Part 2:
-	In part 2, we intercepted the syscall cs3013_syscall2. After the interception, we are able to print the statistics of the parent and child processes using cs3013_syscall2. In order to do this, first "make" the kernel module, next "sudo insmod part2.ko" to insert the part2 module into the kernel, and then using our test program "./part2test" to test the module. In the end, remove the module from the kernel by "sudo rmmod part2.ko" after testing.
+	In part 2, we intercepted the syscall cs3013_syscall2. After the interception, we are able to print the statistics of the parent and child processes using cs3013_syscall2. In order to do this, first, "make" the kernel modul. Next, "sudo insmod part2.ko" to insert the part2 module into the kernel, then using our test program "./part2test" to test the module. In the end, remove the module from the kernel by "sudo rmmod part2.ko" after testing.
