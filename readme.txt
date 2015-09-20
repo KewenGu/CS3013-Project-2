@@ -5,7 +5,7 @@ Sep 18, 2015
 
 -------------------------------------------
 Part 1:
-	In part 1, we intercepted the new added syscall cs3013_syscall1, then we wrote two program sys_open.c and sys_close.c to intercept the original open and close syscalls. To test our program, enter "make" to generate the kernel modules, then "sudo insmod <module_name>" to insert the module into the kernel. We have a program called "part1test" which is used to test the intercepted cs3013_syscall1. you can enter "./part1test" to test cs3013_syscall1, and observe the logfile by entering "tail -n 3 /var/log/syslog". After the testing, remove the module from the kernel using "sudo rmmod <module_name>".
+	In part 1, we intercepted the new added syscall cs3013_syscall1, then we wrote two programs sys_open.c and sys_close.c to intercept the original open and close syscalls. To test our program, enter "make" to generate the kernel modules, then "sudo insmod <module_name>" to insert the module into the kernel. We have a program called "part1test" which is used to test the intercepted cs3013_syscall1. you can enter "./part1test" to test cs3013_syscall1, and observe the logfile by entering "tail -n 3 /var/log/syslog". After the testing, remove the module from the kernel using "sudo rmmod <module_name>".
 
 -------------------------------------------
 Part 2:
