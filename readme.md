@@ -1,11 +1,10 @@
 Kewen Gu & Zhaochen Ding
--
+
 Project 2
--
+
 CS 3013
--
+
 Sep 18, 2015
--
 
 Part 1:
 ======
